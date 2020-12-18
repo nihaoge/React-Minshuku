@@ -1,0 +1,42 @@
+.user{
+    width: 750rpx;
+    height: 220rpx;
+    border-bottom: 3px solid rgb(133, 133, 133);
+
+
+    .text_box{
+        width: 40%;
+        float: left;
+        height: 100%;
+        text-align: center;
+
+        >Text{
+            display: inline-block;
+            width: 200rpx;
+            height: 70rpx;
+            margin-top: 70rpx;
+            border-radius: 15rpx ;
+            border: 2rpx solid rgb(96, 126, 105);
+            line-height: 80rpx;
+            color: rgb(68, 68, 68);
+            font-size: 26rpx;
+
+        }
+
+    }
+
+    .img_box{
+        width: 30%;
+        height: 100%;
+        float: right;
+
+
+        >image{
+            width: 60%;
+            height: 60%;
+            margin-top: 50rpx;
+
+        }
+    }
+
+}
