@@ -1,7 +1,7 @@
 # React-Minshuku
 
 Wechat applet based on React
-"name": "zhhapp",
+``` "name": "zhhapp",
   "version": "1.0.0",
   "private": true,
   "templateInfo": {
@@ -24,3 +24,4 @@ Wechat applet based on React
   "dev:rn": "npm run build:rn -- --watch",
   "start": "npm run dev:weapp"
   }
+```
